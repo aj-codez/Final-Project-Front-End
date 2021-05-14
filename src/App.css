@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.booton{
+  display:flex;
+  flex-flow: row;
+}
+.buttoncontainer{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
